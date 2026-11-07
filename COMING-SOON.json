@@ -1,0 +1,8 @@
+{
+ "slot": 58,
+ "of": 59,
+ "placeholder": true,
+ "site_path": "/coming-soon-58/",
+ "registry": "unclehowell/cedwyn data/coming-soon.json",
+ "rule": "Placeholder for webapp slot 58 of 59 on cedwyn.bucklerfamily.estate (served at /coming-soon-58/). When the real webapp for slot 58 is built, it gets its own proper repository and takes slot 58 in the site's registry; this coming-soon-58 repository is then deleted and its line removed from data/coming-soon.json in unclehowell/cedwyn."
+}
